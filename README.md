@@ -1,7 +1,7 @@
 ##### R scripts used in 
 **All-cause and cause-specific mortality in respiratory symptom clusters: a population-based multicohort study**
 ##### Daniil Lisik, Helena Backman, Hannu Kankaanranta, Rani Basna, Linnea Hedman, Linda Ekerljung, Fredrik Nyberg, Anne Lindberg, Göran Wennergren, Eva Rönmark, Bright I. Nwaru, Lowie Vanfleteren
-##### *In preparation*
+##### *Under review*
 
 <br>
 
